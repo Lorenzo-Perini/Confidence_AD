@@ -1,7 +1,7 @@
 # Confidence_AD
 
-`Confidence_AD` (Confidence in Anomaly Detection) is a GitHub repository containing the **ExCeeD [1]** algorithm.
-
+`Confidence_AD` (Confidence in Anomaly Detection) is a GitHub repository containing the **ExCeeD**[1] algorithm.
+It refers to the paper titled *Quantifying the confidence of anomaly detectors in their example-wise predictions* ([[pdf] (https://lirias.kuleuven.be/3059378?limo=0)]).
 ## Abstract
 Anomaly detection focuses on identifying examples in the data that somehow deviate from what is expected or typical. Algorithms for this task usually assign a score to each example that represents how anomalous the example is. Then, a threshold on the scores turns them into concrete predictions.
 However, each algorithm uses a different approach to assign the scores, which makes them difficult to interpret and can quickly erode a user's trust in the predictions.
@@ -63,4 +63,4 @@ Contact the author of the paper: [lorenzo.perini@kuleuven.be](mailto:lorenzo.per
 
 ## References
 
-[1] Perini, L., Vercruyssen, V., Davis, J.: *Quantifying the confidence of anomaly de-tectors in their example-wise predictions.* In: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. Springer Verlag (2020)
+[1] Perini, L., Vercruyssen, V., Davis, J.: *Quantifying the confidence of anomaly detectors in their example-wise predictions.* In: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. Springer Verlag (2020)
