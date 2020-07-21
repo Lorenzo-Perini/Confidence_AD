@@ -1,7 +1,9 @@
 # Confidence_AD
 
 `Confidence_AD` (Confidence in Anomaly Detection) is a GitHub repository containing the **ExCeeD** [1] algorithm.
-It refers to the paper titled *Quantifying the confidence of anomaly detectors in their example-wise predictions*. Read the pdf here: [[pdf](https://lirias.kuleuven.be/3059378?limo=0)].
+It refers to the paper titled *Quantifying the confidence of anomaly detectors in their example-wise predictions*.
+
+Read the pdf here: [[pdf](https://lirias.kuleuven.be/3059378?limo=0)].
 
 ## Abstract
 
@@ -62,9 +64,9 @@ The `ExCeeD` function requires the following python packages to be used:
 
 ## Contact
 
-Contact the author of the paper: [lorenzo.perini@kuleuven.be](mailto:lorenzo.perini@kuleuven.be)
+Contact the author of the paper: [lorenzo.perini@kuleuven.be](mailto:lorenzo.perini@kuleuven.be).
 
 
 ## References
 
-[1] Perini, L., Vercruyssen, V., Davis, J.: *Quantifying the confidence of anomaly detectors in their example-wise predictions.* In: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. Springer Verlag (2020)
+[1] Perini, L., Vercruyssen, V., Davis, J.: *Quantifying the confidence of anomaly detectors in their example-wise predictions.* In: The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. Springer Verlag (2020).
