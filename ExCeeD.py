@@ -23,7 +23,6 @@ def ExCeeD(train_scores, test_scores, prediction, contamination):
     """
     
     n = len(train_scores)
-    t = len(test_scores)
     n_anom = np.int(n*contamination) #expected anomalies
     
     count_instances = np.vectorize(lambda x: np.count_nonzero(train_scores <= x)) 
